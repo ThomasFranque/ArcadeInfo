@@ -4,7 +4,7 @@ All the info you need to develop a game for the arcade!
 
 ## Control Schemes
 
-    Joysticks and buttons function as buttons being pressed, NOT axis ranging from 0 to 1.
+    Joysticks and buttons function as buttons being pressed, NOT axis ranging from -1 to 1.
     Diagonals are not registered as such.
 
 ### Left Inputs
@@ -37,13 +37,13 @@ All the info you need to develop a game for the arcade!
 
 ## Requirements
 
-1. The game **must** exit on its own after losing / winning / timeout, or have an accessible exit button (alt + f4 is not accessible).
+1. The game **must** exit on its own after losing / winning / timeout, or have an accessible exit button (`alt` + `f4` is not accessible).
 
 2. Inside the Build folder, besides the executable, there should be an extra `.txt`
     and `.png`. 
     This is optional but recommended, since it will represent your game.
 
-    - The `.txt` should contain only a brief description of the game with a maximum of 90 characters.
+    - The `.txt` should contain only a brief description of the game with a maximum of 90 characters (spaces included).
   
     - The `.png` will be the icon that will appear in the arcade representing the game and should / is recommended to have an aspect ratio of 1:1.
 
