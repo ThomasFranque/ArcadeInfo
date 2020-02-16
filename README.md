@@ -50,3 +50,5 @@ All the info you need to develop a game for the arcade!
 ## Final Notes
 
 It should also be noted that the name of the build folder will be the name that will be shown in the arcade, not the name of the executable.
+
+There is an example build folder in this repo: [Example Build folder link](https://github.com/ThomasFranque/ArcadeInfo/blob/master/ImTheExampleBuildFolder)
