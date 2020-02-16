@@ -16,7 +16,7 @@ All the info you need to develop a game for the arcade!
 | Left   |    A     |
 | Down   |    S     |
 | Right  |    D     |
-|
+| | |
 | Left Button     |    X     |
 | Middle Button   |    C     |
 | Right Button    |    V     |
@@ -30,7 +30,7 @@ All the info you need to develop a game for the arcade!
 | Left   |    ←     |
 | Down   |    ↓     |
 | Right  |    →     |
-|
+| | |
 | Left Button     |    J     |
 | Middle Button   |    K     |
 | Right Button    |    L     |
