@@ -11,7 +11,7 @@ All the info you need to develop a game for the arcade!
 
 | Arcade | Keyboard |
 |--------|----------|
-|
+| | |
 | Up     |    W     |
 | Left   |    A     |
 | Down   |    S     |
@@ -25,7 +25,7 @@ All the info you need to develop a game for the arcade!
 
 | Arcade | Keyboard |
 |--------|----------|
-|
+| | |
 | Up     |    ↑     |
 | Left   |    ←     |
 | Down   |    ↓     |
